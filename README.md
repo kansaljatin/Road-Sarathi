@@ -1,6 +1,6 @@
-# sadak
+# Road Sarthi
 
-A new Flutter project.
+A Flutter based project that allows user to register complaint regarding road problems.
 
 ## Getting Started
 
