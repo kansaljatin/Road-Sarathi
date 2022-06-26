@@ -1,4 +1,4 @@
-# Road Sarthi
+# Road Sarathi
 
 A Flutter based project that allows user to register complaint regarding road problems.
 
